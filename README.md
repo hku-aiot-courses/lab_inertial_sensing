@@ -37,7 +37,7 @@ By integrating the velocity, and double integrating the acceleration, you can ge
 
 **The above three experiments are fundamental and must be done by all of you. If you are not able to handle the extend experiment, which is the fourth part, it's OK to just finish three on them. And you will get almost 80 points if you do a good job.**
 
-#### D. Extend experiment (bonus)
+### D. Extend experiment (bonus)
 If we do not conduct additional processing on IMU data, the step counting prediction we make will be quite different from the ground truth. In the fourth part of the project, you may try some mature methods to improve the calculation of step count or moving trajectory. For example, machine learning, or some filter algorithms (Kalman filter, butterworth filter), if you're familiar with signal processing. It should be noticed that this part will be graded in terms of experimental completness and accuracy, as well as the cross-sectional comparison with other groups.
 
 ***Let's start our trip with IMU***
